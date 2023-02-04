@@ -8,6 +8,6 @@ Build a logistuc regression model for disease prediction
 5. Checking for correlations through regression plot,heatmap
 6. Splitting data into train & test data
 7. Data preprocessing( includes featue scaling of the data)
-8. Building logistic regression model
+8. Built logistic regression model,random forest classifier,decision tree classifier
 9. Use the model to make predictions on new data.
-10. 
+10. Checking for accuracy of the models' built
